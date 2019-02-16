@@ -1,0 +1,28 @@
+a.navbar-brand {
+    margin-left: 220px;
+}
+
+#navbarText {
+    margin-left: 720px;
+}
+
+.navbar-custom {
+    background-color: #4aaaa5;
+}
+
+
+/* .style { */
+
+
+/* float: left; */
+
+
+/* } */
+
+img {
+    width: 20%;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+    margin-bottom: 5px;
+}
